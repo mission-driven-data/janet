@@ -956,7 +956,7 @@ unknown,PreMigrationFormAnswer,
 unknown,QueryLog,TRUE
 unknown,ReportPrompts_05022018,
 unknown,RxBuilder,TRUE
-unknown,Signature,
+dbo,Signature,TRUE
 unknown,sysarticlecolumns,
 unknown,sysarticles,
 unknown,sysarticleupdates,
