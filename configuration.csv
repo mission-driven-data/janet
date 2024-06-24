@@ -950,7 +950,3 @@ unknown,RxBuilder,TRUE
 dbo,Signature,TRUE
 unknown,ZestNew,
 unknown,ZestOld,
-lab,Report_Accession,
-lab,Report_Procedure, 
-lab,Report_Result, 
-lab,Report_Test
