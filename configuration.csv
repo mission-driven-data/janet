@@ -930,7 +930,7 @@ unknown,EVV_VisitMessage,
 unknown,ExportBatchItem,TRUE
 unknown,MaintenanceMessage,
 unknown,NotificationEmployee,
-dbo,PartnerConfig,TRUE
+dbo,PartnerConfig,
 unknown,PersonalRestrictedInfo,
 unknown,PreMigrationChangeLogClient,
 unknown,PreMigrationChangeLogClientEpisode,
