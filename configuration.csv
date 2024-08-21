@@ -929,7 +929,7 @@ unknown,EVV_VisitDurationError,
 unknown,EVV_VisitMessage,
 unknown,ExportBatchItem,TRUE
 unknown,MaintenanceMessage,
-unknown,NotificationEmployee,
+dbo,NotificationEmployee,TRUE
 dbo,PartnerConfig,
 unknown,PersonalRestrictedInfo,
 unknown,PreMigrationChangeLogClient,
