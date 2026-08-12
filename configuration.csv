@@ -605,6 +605,7 @@ dbo,SavedEmpVisitAnswerNoteHistory,,empvisitdocversion_id
 dbo,SavedEmpVisitCategoryNoteHistory,,empvisitdocversion_id
 dbo,SavedGoldenThread,,golden_id
 dbo,SavedVisitAnswer,,clientvisit_id
+dbo,SavedVisitAnswerTemp,TRUE,clientvisit_id
 dbo,SavedVisitAnswerArch,,clientvisit_id
 dbo,SavedVisitAnswerHistory,,visitdocversion_id
 dbo,SavedVisitAnswerNote,,clientvisit_id
