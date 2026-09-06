@@ -600,7 +600,7 @@ dbo,SavedDocDeleted,,doc_id
 dbo,SavedDocRelinked,,doc_id
 dbo,SavedDocumentation,,doc_id
 dbo,SavedDocumentationTemp,,doc_temp_id
-dbo,SavedEmpVisitAnswerHistory,,empvisitdocversion_id
+dbo,SavedEmpVisitAnswerHistory,,"answer_id,empvisitdocversion_id,question_id"
 dbo,SavedEmpVisitAnswerNoteHistory,,savedempvisitanswernotehistory_id
 dbo,SavedEmpVisitCategoryNoteHistory,,empvisitdocversion_id
 dbo,SavedGoldenThread,,golden_id
@@ -987,3 +987,6 @@ dbo,Z_EDI_Provider,TRUE,provider_id
 dbo,Z_EDI_ProviderAltId,TRUE,"provider_id,provideralt_id"
 dbo,Z_EDI_RecordType,TRUE,recordtype_id
 dbo,Z_EDI_RenderingProviderAltId,TRUE,renderingprovideralt_id
+dbo,CQMDataCriteria,,cqmdatacriteriaid
+dbo,ECQM_Domain,,ecqm_domain_id
+dbo,ECQM_Measure,,ecqm_measure_id
