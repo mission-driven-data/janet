@@ -950,7 +950,7 @@ dbo,Z_EDI_L2330A_Other_Subscriber_name,,l2330a_id
 dbo,Z_EDI_L2330B_Other_Payer_Name,,l2330b_id
 dbo,Icd9cmMaster,,"icd9_code,major_code"
 dbo,Icd9_Snomed_Map_1To1,,icd9_code
-dbo,Loinc,,loinc_num
+dbo,Loinc,TRUE,loinc_num
 dbo,Partner,,partner_id
 dbo,Rfmliad0_Icd_All_Desc,,"icd_cd,icd_cd_type,icd_desc_source_cd"
 dbo,Rfmlinm1_Icd_Desc,,"icd_cd,icd_cd_type"
